@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user>
+        <name>Taron Mkrtchyan</name>
+        <email>tar@gmail.com</email>
+        <gender>male</gender>
+        <age>28</age>
+    </user>
+    <user>
+        <name>Arman Vardanyan</name>
+        <email>arman@gmail.com</email>
+        <gender>male</gender>
+        <age>22</age>
+    </user>
+    <user>
+        <name>Arpine Sargsyan</name>
+        <email>arpine@gmail.com</email>
+        <gender>female</gender>
+        <age>25</age>
+    </user>
+    <user>
+        <name>Babken Mxitaryan</name>
+        <email>babken@gmail.com</email>
+        <gender>male</gender>
+        <age>15</age>
+    </user>
+    <user>
+        <name>Karen Galstuan</name>
+        <email>karen@gmail.com</email>
+        <gender>male</gender>
+        <age>25</age>
+    </user>
+    <user>
+        <name>Lusine Kirakosyan</name>
+        <email>lusine@gmail.com</email>
+        <gender>female</gender>
+        <age>15</age>
+    </user>
+    <user>
+        <name>Karine Adamyan</name>
+        <email>karine@gmail.com</email>
+        <gender>female</gender>
+        <age>35</age>
+    </user>
+    <user>
+        <name>Vache Manukyan</name>
+        <email>vache@gmail.com</email>
+        <gender>male</gender>
+        <age>29</age>
+    </user>
+    <user>
+        <name>Amnen Soxomonyan</name>
+        <email>armen@gmail.com</email>
+        <gender>male</gender>
+        <age>22</age>
+    </user>
+    <user>
+        <name>Babken Mxitaryan</name>
+        <email>babken@gmail.com</email>
+        <gender>male</gender>
+        <age>15</age>
+    </user>
+    <user>
+        <name>Lusine Kirakosyan</name>
+        <email>lusine@gmail.com</email>
+        <gender>female</gender>
+        <age>15</age>
+    </user>
+    <user>
+        <name>Gayane Hakobyan</name>
+        <email>gayane@gmail.com</email>
+        <gender>female</gender>
+        <age>40</age>
+    </user>
+</users>
