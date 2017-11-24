@@ -8,12 +8,9 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Android on 23.11.2017.
- */
+
 
 public class ListAdapter extends BaseAdapter {
 
@@ -25,7 +22,7 @@ public class ListAdapter extends BaseAdapter {
     private List<UserModel> list;
     private UserModel userModel;
 
-    public ListAdapter(Context context, List<UserModel> list) {
+    ListAdapter(Context context, List<UserModel> list) {
         this.context = context;
         this.list = list;
     }
